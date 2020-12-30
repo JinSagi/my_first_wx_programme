@@ -1,0 +1,28 @@
+ <image class="banner" src="/images/about.jpg"></image>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">
+    瓦房打开拉萨解放立刻三分来看房老师的课离
+    开你深大路口附近拉山口就纷
+    纷离开女款可能考虑女哦而据
+    破案卡佛离开你的萨拉开发商的绿卡就发生了肯德基</text>
+</view>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">
+    瓦房打开拉萨解放立刻三分来看房老师的课离
+    开你深大路口附近拉山口就纷
+    纷离开女款可能考虑女哦而据
+    破案卡佛离开你的萨拉开发商的绿卡就发生了肯德基</text>
+</view>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">
+    瓦房打开拉萨解放立刻三分来看房老师的课离
+    开你深大路口附近拉山口就纷
+    纷离开女款可能考虑女哦而据
+    破案卡佛离开你的萨拉开发商的绿卡就发生了肯德基</text>
+</view>
+<view class = "footer">
+  <button bindtap="tell">电话咨询</button>
+</view>
